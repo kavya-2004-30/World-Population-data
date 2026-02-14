@@ -33,7 +33,7 @@ pip install numpy pandas matplotlib seaborn
 Run the Jupyter Notebook or Python script.
 
 👨‍💻 About Me
-Passionate about Data Analysis, Visualization, and Machine Learning.
+Passionate about Data Analysis, Visualization.
 Exploring real-world datasets to extract meaningful insights.
 
 If you'd like, I can also create:
